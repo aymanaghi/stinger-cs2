@@ -1,35 +1,50 @@
-.# Stinger's CS2 Training OS  
-### Code by day, gamer by night • Chaos in code, order in games
+# Stinger's CS2 Training OS  
+### Helping players get better — including myself  
 
-> “If I were a pro CS2 player, this is what I would do every day.”  
+> “Chaos in code, order in games.”  
 > — Stinger (a.k.a Ayman)
 
 I’m not a pro.  
-But I’m **spiritual waking up**, **trying to figure it out**, and building a **personal system** to train smarter — not just play more.
+I’m a **Dota 2 addict**, **Linux tinkerer**, and **CS2 grinder** trying to level up — while building tools to help others do the same.
 
-This is my **CS2 lab**: configs, drills, mindset resets, and tools I actually use.  
-No fluff. No copied YouTube lineups. Just real work.
+This repo is **my public training journal**:  
+- What I practice  
+- What I break  
+- What actually moves the needle  
+
+If it helps **one other player** avoid my mistakes or find their rhythm… it’s worth it.
 
 ---
 
-## 🗂️ Structure
+## 🧠 Core Beliefs
+- **Improvement > perfection**  
+- **Deliberate practice beats mindless play**  
+- **Share openly — we rise together**
 
-- `configs/` → My real `autoexec.cfg` (G305, 400 DPI, green dot)  
-- `drills/` → 15-min daily routines that fix actual weaknesses  
-- `mindset/` → Tilt control, focus, and post-rage rituals  
+---
+
+## 🗂️ What’s Inside
+- `configs/` → My real CS2 settings (G305, 400 DPI, green dot)  
+- `drills/` → 10–15 min daily routines (aim, movement, utility)  
+- `mindset/` → Tilt resets, focus rituals, post-game reviews  
 - `maps/` → Lineups I’ve tested (and died for)  
-- `tools/` → Scripts to parse demos, track progress (Python + chaos)
+- `tools/` → Scripts to analyze demos, track progress (Python + chaos)
 
 ---
 
-## 🎯 Current Grind
-- Stop overpeeking B site on Mirage  
-- Master 3 AWP flicks on Inferno  
-- Build a demo analyzer that tells me *why* I died
+## 🎯 Current Focus
+- Stop overpeeking B site  
+- Master AWP flicks on Inferno  
+- Build a demo analyzer that tells me *why* I died  
 
 ---
 
-> “I break things just to build them better.”  
-> “I’d rather be fragging than fixing merge conflicts.”
+## 🤝 Want to grow together?
+- **Use this** — steal what helps you  
+- **Contribute** — fix mistakes, add drills, share your config  
+- **DM me** — if you’re grinding ranked and need a practice partner  
 
-— Stinger • [GitHub](https://github.com/aymanaghi) • [Discord: stinger_7s]
+> “I break things just to build them better.” 
+> “Spiritual waking up. Trying to figure it out.” 
+
+— [Stinger](https://github.com/aymanaghi) • Fedora user • Dota/CS2 hybrid  
